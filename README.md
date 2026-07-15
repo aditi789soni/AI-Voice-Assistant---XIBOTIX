@@ -86,6 +86,7 @@ Create a `.env` file in the project root directory:
 
 ```env
 GROQ_API_KEY=YOUR_GROQ_API_KEY
+DEEPGRAM_API_KEY=YOUR_DEEPGRAM_API_KEY
 ```
 
 ---
