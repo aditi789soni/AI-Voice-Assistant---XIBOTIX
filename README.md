@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project is a real-time Audio-In, Audio-Out Conversational AI Assistant developed using Python.
+My laptop is Hp laptop with 8gm ram only so it takes more time hence i preferred online implementation.
 The assistant accepts voice input from the user, converts speech into text, generates intelligent responses using the Groq Llama 3.1 8B Instant model, and provides spoken responses through text-to-speech. The system also supports conversation memory, latency monitoring, and fallback conversational responses to improve user experience.
 
 ---
